@@ -51,7 +51,7 @@ High employee turnover increases hiring costs, reduces productivity, and impacts
 - *Clear promotion paths* – Ensure high performers get promoted within 2 years, transparent career documentation.
 
 ## 📸 Dashboard Screenshot
-![Dashboard Overview](Screenshot%202026-06-08%2022192...png)
+![Dashboard Overview]("C:\Users\sk346\OneDrive\Pictures\Screenshots\Screenshot 2026-06-08 221929.png")
 
 ## 🚀 How to Use This Repository
 1. Download the .pbix file.
