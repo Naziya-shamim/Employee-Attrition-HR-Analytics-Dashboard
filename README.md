@@ -52,6 +52,7 @@ High employee turnover increases hiring costs, reduces productivity, and impacts
 
 ## 📸 Dashboard Screenshot
 ![Dashboard Overview](dashboard-overview.png)
+![Insight Page](Screenshot%202026-06-12%20015807)
 
 ## 🚀 How to Use This Repository
 1. Download the .pbix file.
