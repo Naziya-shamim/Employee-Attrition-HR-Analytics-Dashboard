@@ -52,7 +52,7 @@ High employee turnover increases hiring costs, reduces productivity, and impacts
 
 ## 📸 Dashboard Screenshot
 ![Dashboard Overview](https://github.com/Naziya-shamim/Employee-Attrition-HR-Analytics-Dashboard/blob/main/Screenshots/dashboard-overview.png)
-![Insight Page](Screenshot%202026-06-12%20015807)
+![Insight Page](Screenshot%202026-06-12%20015807.png)
 
 ## 🚀 How to Use This Repository
 1. Download the .pbix file.
