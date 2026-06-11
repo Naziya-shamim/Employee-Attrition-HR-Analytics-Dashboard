@@ -51,7 +51,7 @@ High employee turnover increases hiring costs, reduces productivity, and impacts
 - *Clear promotion paths* – Ensure high performers get promoted within 2 years, transparent career documentation.
 
 ## 📸 Dashboard Screenshot
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](https://github.com/Naziya-shamim/Employee-Attrition-HR-Analytics-Dashboard/blob/main/Screenshots/dashboard-overview.png)
 ![Insight Page](Screenshot%202026-06-12%20015807)
 
 ## 🚀 How to Use This Repository
